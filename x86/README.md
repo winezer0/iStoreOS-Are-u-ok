@@ -9,7 +9,7 @@
 | :----: | :----: | :----: | :----: |
 | [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_26.4.6](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_26.4.6_x86_64_all_sdk_22.03.7.run) |2026-04-07|
 | [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_26.4.5](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_26.4.5_x86_64_all_sdk_22.03.7.run) |2026-04-07|
-| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_190](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_190_x86_64_all_sdk_22.03.7.run) |2025-08-31|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_190](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_190_x86_64_all_sdk_22.03.7.run) |2026-04-07|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.47.075](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.47.075+x86_64_core.run) |2026-04-01|
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
 * 如果你在安装此包前尝试通过第三方软件源安装，可能导致意外的错误。推荐你删除所有自行添加的第三方软件源。
